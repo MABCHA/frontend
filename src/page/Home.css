@@ -1,0 +1,14 @@
+.Home-Page {
+    margin-top: 0.5px;
+    
+    width:100%;
+    min-height:91vh;
+    max-height: auto;
+}
+
+.homeimg{ width: 300px;
+    height:500px
+}
+.viewBook{ text-decoration: none; border: 1px solid #fff;width: 300px;
+
+}
