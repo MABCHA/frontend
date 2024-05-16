@@ -19,7 +19,7 @@ const change =(e)=>{
 const submit = async (e)=>{
     e.preventDefault()
     await axios
-    .put("http://localhost:1000/api/v1//updateBook/:id",)
+    .put("https://backend-z358.onrender.com/api/v1//updateBook/:id",)
             .then((res)=> alert(res.data.message))
         
 
